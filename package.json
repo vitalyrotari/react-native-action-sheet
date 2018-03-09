@@ -1,5 +1,5 @@
 {
-  "name": "@terranet//react-native-action-sheet",
+  "name": "@terranet/react-native-action-sheet",
   "version": "1.0.3",
   "description": "A cross-platform ActionSheet for React Native",
   "main": "index.js",
